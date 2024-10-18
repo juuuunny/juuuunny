@@ -65,7 +65,7 @@
 ---
 
 ## 🎓 Recent Velog Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juuuunny&color=d14836)](https://velog.io/@zaman17)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juuuunny&color=d14836)](https://velog.io/@juuuunny)
 ---
 
 ## 📊 GitHub Stats

@@ -8,8 +8,8 @@
 프론트엔드에서는 **React**, **TypeScript** 등을 활용해 웹 애플리케이션을 구축하였습니다.<br/>
 새로운 기술을 배우고, 복잡한 문제를 해결하는 데에 큰 즐거움을 느끼고 있습니다.
 
-- 🔭 현재 **[HitZone]([프로젝트 링크](https://github.com/KUSITMS-30th-TEAM-A/backend))** 프로젝트에 집중하고 있습니다.
-- 🌱 최근에는 **무중단배포 CI/CD**와 **JWT 토큰 보안**을 공부하고 있습니다.
+- 🔭 현재 **([히트존](https://github.com/KUSITMS-30th-TEAM-A/backend))** 프로젝트에 집중하고 있습니다.
+- 🌱 최근에는 **JWT 토큰 보안**과 **무중단배포 CI/CD**를 공부하고 있습니다.
 
 ---
 
@@ -33,13 +33,22 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-7B4B94?style=for-the-badge&logo=recoil&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-563D7C?style=for-the-badge&logo=cssmodules&logoColor=white)
 
 
 ---
 
 ## 💼 Current Projects
-- **[히트존](https://github.com/KUSITMS-30th-TEAM-A/backend)**: 야구 도메인
-
+### 💻 Backend Projects
+- **[히트존 백엔드](https://github.com/KUSITMS-30th-TEAM-A/backend)**: 사용자들이 질문과 답변을 통해 서로의 취향과 관심사를 공유하며 깊이 있는 소통을 가능하게 하는 Q&A 플랫폼이다. 
+### 🌐 Frontend Projects
+- **[Flibit](https://github.com/Team-baebae/baebae-FE)**: 사용자들이 질문과 답변을 통해 서로의 취향과 관심사를 공유하며 깊이 있는 소통을 가능하게 하는 Q&A 플랫폼이다. 
+- **[Kobaco](https://github.com/Kusitms-29th-Kobaco-A/Frontend)**: 코바코 기업과 협업하여 홈페이지 문제점 개선 프로젝트로 메인 홈페이지 ui 개선안과 내부 메뉴 페이지 구체화 방안 마련하였습니다.
+- **[Feelow](https://github.com/FellowCotato/Feelow_FrontEnd)**: 학생의 ai와의 대화를 통하여 학생들의 정신건강 상태 확인 및 교사의 학생관리, 대화를 통한 학생의 기분을 달력에 표시하여 학생들 상태를 확인해주는 플랫폼입니다.
 
 ---
 
@@ -52,6 +61,10 @@
 
 ---
 
+## 🎓 Recent Velog Post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juuuunny&color=d14836)](https://velog.io/@zaman17)
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juuuunny&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
@@ -60,5 +73,3 @@
 
 ---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juuuunny&color=d14836)](https://velog.io/@zaman17)
----

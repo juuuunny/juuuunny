@@ -13,22 +13,8 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Pull Velog RSS feed and update README
-        uses: actions/github-script@v3
+        uses: skowronsk8/rss-to-readme-action@v1.0.0
         with:
-          script: |
-            const { data: feed } = await require('@extractus/feed-extractor')('https://v2.velog.io/rss/@juuuunny');
-            const fs = require('fs');
-            const readmeContent = fs.readFileSync('README.md', 'utf-8');
-            const startMarker = '<!--START_SECTION:velog-->';
-            const endMarker = '<!--END_SECTION:velog-->';
-            const latestPosts = feed.entries.slice(0, 5).map(post => `- [${post.title}](${post.link})`).join('\n');
-            const updatedReadme = readmeContent.split(startMarker)[0] + startMarker + '\n' + latestPosts + '\n' + endMarker + readmeContent.split(endMarker)[1];
-            fs.writeFileSync('README.md', updatedReadme);
+          feed_url: "https://v2.velog.io/rss/@juuuunny"
+          readme_section: "velog"
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update recent Velog posts"
-          git push

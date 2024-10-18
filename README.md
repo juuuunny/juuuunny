@@ -47,7 +47,7 @@
 - **[HitZone](https://github.com/KUSITMS-30th-TEAM-A/backend)**: 유저가 입력한 키워드를 통한 구장 별 구역 추천 및 챗봇 및 구역가이드 설명을 해주는 플랫폼입니다.
 - **[LetsCareer](https://github.com/Kusitms-30th-LetsCareer-B/LetsCareer-BE)**: 더 많은 렛츠커리어 유저를 확보할 수 있는 GTM (Go To Market) 전략을 위한 일정관리 대시보드 개선안을 마련한 프로젝트입니다.
 
-https://github.com/Kusitms-30th-LetsCareer-B/LetsCareer-BE
+
 ### 🌐 Frontend Projects
 - **[Flibit](https://github.com/Team-baebae/baebae-FE)**: 사용자들이 질문과 답변을 통해 서로의 취향과 관심사를 공유하며 깊이 있는 소통을 가능하게 하는 Q&A 플랫폼입니다.
 - **[Kobaco](https://github.com/Kusitms-29th-Kobaco-A/Frontend)**: 코바코 기업과 협업하여 홈페이지 문제점 개선 프로젝트로 메인 홈페이지 ui 개선안과 내부 메뉴 페이지 구체화 방안을 마련한 프로젝트입니다.

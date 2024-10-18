@@ -44,9 +44,11 @@
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [jh981109@naver.com](mailto:jh981109@naver.com)
-- **LinkedIn**: [yourlinkedin](https://linkedin.com/in/yourusername)
-- **Blog**: [Velog](https://velog.io/@juuuunny)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh981109@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@juuuunny)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juuuunny)
+
 
 ---
 
@@ -58,11 +60,5 @@
 
 ---
 
-## 📕 Recent Velog Posts
-<!--START_SECTION:velog-->
-<!--END_SECTION:velog-->
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juuuunny&color=d14836)](https://velog.io/@zaman17)
 ---
-
-## 🌐 Contribution Graph
-[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
